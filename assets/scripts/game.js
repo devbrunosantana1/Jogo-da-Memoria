@@ -62,9 +62,6 @@ let game = {
     },
 
 
-
-
-
     createCardsFromTechs: function () {
 
         this.cards = [];
